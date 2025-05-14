@@ -65,19 +65,19 @@ Resposta:
 ## Instalando as dependências
 Recomenda-se utilizar um ambiente virtual para evitar conflitos com outras dependências.
 Crie e ative um ambiente virtual:
-```json
+```
 python -m venv venv
 source venv/bin/activate   # No Windows: venv\Scripts\activate
 ```
 
 ## Como Executar
 1 - Após fazer o clone do repositório, navegue até a pasta do projeto:
-```json
+```
 cd /caminho/para/seu/projeto
 ```
 
 2 - Execute o servidor Flask:
-```json
+```
 python app.py
 ```
 
